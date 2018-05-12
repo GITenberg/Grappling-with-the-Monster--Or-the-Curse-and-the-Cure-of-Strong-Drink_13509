@@ -1,0 +1,31 @@
+_repo: Grappling-with-the-Monster--Or-the-Curse-and-the-Cure-of-Strong-Drink_13509
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Uncle Herbert
+    - Arthur, Timothy Shay
+    - Herbert, Uncle
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2004-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Temperance'
+title: Grappling with the Monster; Or, the Curse and the Cure of Strong Drink
+url: http://www.gutenberg.org/ebooks/13509

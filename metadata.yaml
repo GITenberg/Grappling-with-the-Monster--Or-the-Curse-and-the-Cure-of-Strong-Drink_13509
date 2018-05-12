@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1513
     wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13509#Grappling-with-the-Monster--Or-the-Curse-and-the-Cure-of-Strong-Drink
 gutenberg_issued: '2004-09-21'
 gutenberg_type: Text
 identifiers:
